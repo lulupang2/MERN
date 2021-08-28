@@ -1,9 +1,11 @@
-import '../res/contents.css'
+import React from 'react'
 
-export const Contents = (props) => {
+const Contents = () => {
     return (
-        <div className="wrap"> 
-            
+        <div className="wrap">
+
         </div>
     )
 }
+
+export default Contents
