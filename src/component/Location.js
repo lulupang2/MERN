@@ -5,6 +5,7 @@ import Axios from "axios";
 function Location() {
     const [loading, setLoading] = useState(true);
     const [result, setResult] = useState([]);
+
     useEffect(() => {
             getLoc();
         }
