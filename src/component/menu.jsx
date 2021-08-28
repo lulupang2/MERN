@@ -9,6 +9,8 @@ export const Menu = (props) => {
                     <li><NavLink className="nav-link" to="/">HOME</NavLink></li>
                     <li><NavLink className="nav-link" to="/home">HOME2</NavLink></li>
                     <li>메뉴</li>
+                    <li><NavLink className="nav-link" to="/board">게시판</NavLink></li>
+                    <li><NavLink className="nav-link" to="/eat">뭐먹</NavLink></li>
                 </ul>
             </div>
         </div>
