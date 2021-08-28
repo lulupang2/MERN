@@ -1,7 +1,6 @@
 import {useEffect, useState} from "react";
 import logo from '../logo.svg';
 import Axios from "axios";
-import {Link} from "react-router-dom";
 
 function Location() {
     const [loading, setLoading] = useState(true);
