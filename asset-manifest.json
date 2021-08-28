@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/MERN/static/css/main.00638507.chunk.css",
-    "main.js": "/MERN/static/js/main.285acccf.chunk.js",
-    "main.js.map": "/MERN/static/js/main.285acccf.chunk.js.map",
+    "main.js": "/MERN/static/js/main.fab24723.chunk.js",
+    "main.js.map": "/MERN/static/js/main.fab24723.chunk.js.map",
     "runtime-main.js": "/MERN/static/js/runtime-main.bb857ed3.js",
     "runtime-main.js.map": "/MERN/static/js/runtime-main.bb857ed3.js.map",
-    "static/js/2.74d04ed7.chunk.js": "/MERN/static/js/2.74d04ed7.chunk.js",
-    "static/js/2.74d04ed7.chunk.js.map": "/MERN/static/js/2.74d04ed7.chunk.js.map",
+    "static/js/2.d48e651b.chunk.js": "/MERN/static/js/2.d48e651b.chunk.js",
+    "static/js/2.d48e651b.chunk.js.map": "/MERN/static/js/2.d48e651b.chunk.js.map",
     "static/js/3.2b013855.chunk.js": "/MERN/static/js/3.2b013855.chunk.js",
     "static/js/3.2b013855.chunk.js.map": "/MERN/static/js/3.2b013855.chunk.js.map",
     "index.html": "/MERN/index.html",
     "static/css/main.00638507.chunk.css.map": "/MERN/static/css/main.00638507.chunk.css.map",
-    "static/js/2.74d04ed7.chunk.js.LICENSE.txt": "/MERN/static/js/2.74d04ed7.chunk.js.LICENSE.txt"
+    "static/js/2.d48e651b.chunk.js.LICENSE.txt": "/MERN/static/js/2.d48e651b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bb857ed3.js",
-    "static/js/2.74d04ed7.chunk.js",
+    "static/js/2.d48e651b.chunk.js",
     "static/css/main.00638507.chunk.css",
-    "static/js/main.285acccf.chunk.js"
+    "static/js/main.fab24723.chunk.js"
   ]
 }
