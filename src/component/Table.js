@@ -2,6 +2,7 @@ import {useEffect, useState} from "react";
 import axios from "axios";
 import {Link} from "react-router-dom";
 import logo from '../logo.svg';
+// import '../bootstrap.min.css';
 
 function Table() {
     const [number, setNumber] = useState(1);
@@ -9,7 +10,6 @@ function Table() {
     const [loading, setLoading] = useState(true);
 
     const url = `https://kenken0803.herokuapp.com/getDB?id=${number - 1}&start=${number}`;
-
     // const url = `http://kenken0803.asuscomm.com:3000/getDB?id=${number - 1}&start=${number}`;
     // const url = `https://kenken0803.asuscomm.com:3030/getDB?id=${number - 1}&start=${number}`;
     // const url = `http://localhost:3030/getDB?id=${number}&start=${number}`;
