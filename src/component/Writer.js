@@ -17,9 +17,7 @@ function Writer() {
     })
 
     const url = `https://kenken0803.herokuapp.com/insertDB`;
-
     // const url = `https://kenken0803.asuscomm.com:3030/insertDB`;
-
     // const url = `http://localhost:3030/insertDB`;
 
     const submitForm = () => {

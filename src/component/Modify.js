@@ -19,10 +19,8 @@ function Modify(props) {
 
     const url1 = `https://kenken0803.herokuapp.com/deleteDB`
     const url2 = `https://kenken0803.herokuapp.com/updateDB`
-
     // const url1 = `https://kenken0803.asuscomm.com:3030/deleteDB`;
     // const url2 = `https://kenken0803.asuscomm.com:3030/updateDB`;
-
     // const url1 = `http://localhost:3030/deleteDB`;
     // const url2 = `http://localhost:3030/insertDB`;
 
