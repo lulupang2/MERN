@@ -2,7 +2,7 @@ import {useEffect, useState} from "react";
 import axios from "axios";
 import {Link} from "react-router-dom";
 import logo from '../logo.svg';
-// import '../bootstrap.min.css';
+import '../bootstrap.min.css';
 
 function Table() {
     const [number, setNumber] = useState(1);

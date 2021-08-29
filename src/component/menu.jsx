@@ -17,15 +17,15 @@ export const Menu = (props) => {
                     <li>메뉴</li>
                     <li><NavLink className="nav-link" to="/board">게시판</NavLink></li>
                     <li><NavLink className="nav-link" to="/eat">뭐먹</NavLink></li>
-                    <li><GoogleLogin
-                        clientId="1047644500942-67e2i9lva85spte4rt32sr7vjj0ah5lf.apps.googleusercontent.com"
-                        buttonText="Login"
-                        onSuccess={responseGoogle}
-                        onFailure={responseGoogle}
-                        cookiePolicy={'single_host_origin'}
-                    />,</li>
                 </ul>
             </div>
+            <GoogleLogin
+                clientId="1047644500942-67e2i9lva85spte4rt32sr7vjj0ah5lf.apps.googleusercontent.com"
+                buttonText="Login"
+                onSuccess={responseGoogle}
+                onFailure={responseGoogle}
+                cookiePolicy={'single_host_origin'}
+            />
         </div>
     )
 }
