@@ -18,7 +18,10 @@ function Footer() {
     }
 
     return (
-        <h4 className="footer">{clock}</h4>
+        <h4 className="footer" style={{
+            textAlign: 'center',
+            backgroundColor: '#CDD5D3'
+        }}>{clock}</h4>
     );
 }
 
