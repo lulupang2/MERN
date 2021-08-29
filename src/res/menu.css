@@ -34,8 +34,8 @@
 .navmenu li:hover {
     font-size: 200%;
     border-bottom: 5px solid red;
-    transform: translateY(5px);
-    transition: 0.2s ease-out;
+    transform: translateY(3px);
+    transition: 0.1s ease-out;
 
 }
 
